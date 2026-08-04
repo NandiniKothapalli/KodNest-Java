@@ -2,19 +2,17 @@
 
 ## My Name
 
-Write your name.
+my name is nandini
 
 ## What I Learned in Foundation Month
-
-Write at least three things you learned.
+I learned basics of the programming language and pesudo code.
 
 ## Why I Selected Java
-
-Write your reason in your own words.
+Java program is secure and object orianted programming language
 
 ## My Career Goal
 
-Write the role you want to achieve.
+I want to become a fullStack Java Developer
 
 ## What I Understood Today
 
